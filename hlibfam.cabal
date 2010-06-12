@@ -1,5 +1,5 @@
 Name:                hlibfam
-Version:             0.1
+Version:             0.2
 Synopsis:            FFI interface to libFAM
 Description:         FFI interface to libFAM
 License:             BSD3
